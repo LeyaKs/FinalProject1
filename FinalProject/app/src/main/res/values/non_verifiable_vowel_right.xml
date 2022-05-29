@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lvl3_1">аристократ, министерство, дивизион</string>
+    <string name="lvl3_2">приоритет, горизонт, стратегия</string>
+    <string name="lvl3_3">нигилист, приоритет, упражнение</string>
+    <string name="lvl3_4">меридиан, апельсин, прикроватный</string>
+    <string name="lvl3_5">аплодировать, шпионаж, вестибюль</string>
+    <string name="lvl3_6">иждивенец, аристократ, кондуктор</string>
+</resources>
